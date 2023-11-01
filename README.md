@@ -36,8 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![image](https://github.com/IMRAAN2005/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/149347407/279ca99b-50cc-4063-b2ec-91e696fe4462)
-![image](https://github.com/IMRAAN2005/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/149347407/72c96e99-439b-4c43-ac74-2c957fe4cd81)
+ ![image](https://github.com/IMRAAN2005/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/149347407/cb151078-1e6c-48a1-8c71-45e86fb38768)
+
 
  
  ## RESULT
